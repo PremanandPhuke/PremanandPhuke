@@ -28,7 +28,6 @@
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="Kotlin" src="https://custom-icon-badges.herokuapp.com/badge/Kotlin-white?logo=kotlin&logoColor=purple"></a>
     
@@ -36,11 +35,12 @@
 
 <p>
   <h5>🧰 Frameworks and libraries<h5/>
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white"></a>
     <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20Native-20232a?logo=react&logoColor=androidgreen"></a>
+    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232a?logo=react&logoColor=androidgreen"></a>
     <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-%23000000.svg?logo=express&logoColor=whit"></a>
 <p/>
 
