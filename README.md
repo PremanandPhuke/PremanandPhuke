@@ -1,6 +1,8 @@
-
+<div align="center">
+<img   src="1.png" alt="premanandphuke" />
+<div/>
 <div  >
-  
+ 
   
   <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Premanand 
   <h3 align="center">Aspiring Front-End Developer @Pimpri Chinchwad Education Trust's NCER, Pune</h3>
