@@ -3,13 +3,12 @@
  
 <div  >
  
-
   <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">,
    I'm <a href="https://premanandphuke.github.io/Portfolio-Website/" target="_blank">Premanand</a> 
   </h1>
    
 <!--   <h3 align="center">Aspiring Front-End Developer @Pimpri Chinchwad Education Trust's NCER, Pune</h3> -->
- 
+
  <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&repeat=false&width=435&lines=I'm+Full+Stack+Developer;I'm+Learning+Enthusiast;I'm+Explorer;Developer++%7C+Learner+%7C+Explorer" alt="Typing SVG" /></a>
  </div>
